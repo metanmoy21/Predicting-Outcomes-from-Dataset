@@ -57,3 +57,7 @@ Spam detection is a crucial application of machine learning in everyday life -
 **Conclusion**
 
 In summary, this script provides a simple but effective implementation of a text classification system for spam detection. By combining Pandas for data handling, CountVectorizer for text vectorization, and Multinomial Naive Bayes for classification, it demonstrates a typical workflow for solving real-world NLP problems. While the dataset is small, the approach can easily be scaled to handle thousands or millions of messages, making it highly relevant in practical applications such as email clients, messaging platforms, and cybersecurity solutions.
+
+**Output**
+
+<img width="504" height="114" alt="Image" src="https://github.com/user-attachments/assets/c03b67c4-c984-4d84-a7c3-9c006d3ffca4" />
